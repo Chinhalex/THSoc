@@ -1,0 +1,31 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/PC/Desktop/ThSoc/software/software/obj/default/runtime/sim/mentor
+vred_leds
+!s110 1656143403
+!i10b 1
+!s100 X:zHWgz;b?0PG^_=P3OT90
+I`Fm9ZiXedP7:@FG]dDRbJ3
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1656086562
+8C:/Users/PC/Desktop/ThSoc/system/testbench/system_tb/simulation/submodules/red_leds.v
+FC:/Users/PC/Desktop/ThSoc/system/testbench/system_tb/simulation/submodules/red_leds.v
+L0 1
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1656143403.000000
+!s107 C:/Users/PC/Desktop/ThSoc/system/testbench/system_tb/simulation/submodules/red_leds.v|
+!s90 -reportprogress|300|C:/Users/PC/Desktop/ThSoc/system/testbench/system_tb/simulation/submodules/red_leds.v|-work|Red_leds_0|
+!i113 1
+o-work Red_leds_0
+tCvgOpt 0

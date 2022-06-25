@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/PC/Desktop/ThSoc/software/software/obj/default/runtime/sim/mentor
+vcount
+Z1 !s110 1656143403
+!i10b 1
+!s100 X`6@MDLYBVV[;MUoHNW<c1
+I]j<7<34d8AG4z[1:V[zcj1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1656140972
+8C:/Users/PC/Desktop/ThSoc/system/testbench/system_tb/simulation/submodules/count.v
+FC:/Users/PC/Desktop/ThSoc/system/testbench/system_tb/simulation/submodules/count.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1656143403.000000
+!s107 C:/Users/PC/Desktop/ThSoc/system/testbench/system_tb/simulation/submodules/count.v|
+!s90 -reportprogress|300|C:/Users/PC/Desktop/ThSoc/system/testbench/system_tb/simulation/submodules/count.v|-work|PWM_wrapper_0|
+!i113 1
+Z5 o-work PWM_wrapper_0
+Z6 tCvgOpt 0
+vpwm_wrapper
+R1
+!i10b 1
+!s100 7IK99?U@M[B:e?<>l14b]3
+ILG[^nQVIV1D<;dNW>9Cj]1
+R2
+R0
+w1656142559
+8C:/Users/PC/Desktop/ThSoc/system/testbench/system_tb/simulation/submodules/pwm_wrapper.v
+FC:/Users/PC/Desktop/ThSoc/system/testbench/system_tb/simulation/submodules/pwm_wrapper.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/PC/Desktop/ThSoc/system/testbench/system_tb/simulation/submodules/pwm_wrapper.v|
+!s90 -reportprogress|300|C:/Users/PC/Desktop/ThSoc/system/testbench/system_tb/simulation/submodules/pwm_wrapper.v|-work|PWM_wrapper_0|
+!i113 1
+R5
+R6
